@@ -35,7 +35,7 @@ class conexion {
 
 
 
-$conectar = new conexion();
+
 
 
 
